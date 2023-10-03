@@ -1,0 +1,37 @@
+# Simple Calculator
+# First create def functions for Addition
+# Subtraction
+# Division
+# Multiplication
+
+# def function for Addition
+def add (x,y):
+    return x+y
+
+# def function for Subtraction
+def subtract (x,y):
+    return x-y
+
+# def function for Division
+def divide (x,y):
+    return x*y
+
+# def function for multiplication
+def multiply (x,y):
+    return x/y
+
+# Now print the options for Arithmetic Operations
+'''print ("\t SIMPLE CALCULATOR \n \n 
+Select Operation \n 
+1.Add \n
+2.Subtract \n 
+3.Divide \n
+4.Multiply'''
+# You can use this method for single line command
+# or use below method
+print ("\t SIMPLE CALCULATOR \n")
+print ("Select Operation") 
+print ("1.Add")
+print ("2.Subtract") 
+print ("3.Divide")
+print ("4.Multiply")
